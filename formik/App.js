@@ -1,3 +1,17 @@
+/*
+
+TÍTULO DE LA ACTIVIDAD: Formulario con formik.
+
+ALUMNO: AVINA ALCALA JESUS.
+
+MATRÍCULA: 5123180007.
+
+CARRERA: IDGS.
+
+
+
+*/
+
 import React from 'react';
 import { View, StyleSheet } from 'react-native';
 import BasicForm from './components/BasicForm';
